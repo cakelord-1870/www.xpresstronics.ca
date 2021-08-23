@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xpresstronics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xpresstronics.ca/collections/earpods.atom"/>
+  <title>XpressTronics: Wholesale Cell Phone Accessories in Canada</title>
+  <updated>2021-01-20T07:00:31-08:00</updated>
+  <author>
+    <name>XpressTronics: Wholesale Cell Phone Accessories in Canada</name>
+  </author>
+  <entry>
+    <id>https://www.xpresstronics.ca/products/6220811206823</id>
+    <published>2021-01-20T07:00:31-08:00</published>
+    <updated>2021-01-20T07:00:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/products/i12-tws-wireless-earphone-with-portable-charging-case-supporting-sensor-with-great-performance"/>
+    <title>i12 TWS Wireless Earphone with Portable Charging Case Supporting Sensor with Great Performance</title>
+    <s:type>Bluetooth Headsets</s:type>
+    <s:vendor>XpressTronics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0502/9865/0791/products/1_8e14ba1b-8207-4315-b245-42930f08297c.jpg?v=1611154833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XpressTronics<br>
+        <strong>Type: </strong>Bluetooth Headsets<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The i12 TWS runs on the brand new Raychem 5.0 chipset featuring a highly responsive touch sensor.</p>
+<ul>
+<li>Briefly play (pause) music/answer the call</li>
+<li>Double (right) headphones double short press to reduce (increase) the volume</li>
+<li>The left (right) earphone presses 3 the next (last) music</li>
+<li>Easily wake up Siri</li>
+<li>Cancel the open situation and close it to the closed situation</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.xpresstronics.ca/products/6220811206823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>CTBH1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xpresstronics.ca/products/6108243755175</id>
+    <published>2020-12-07T12:40:01-08:00</published>
+    <updated>2020-12-07T12:40:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/products/i7s-tws-headphone-twins-bluetooth-wireless-headset-with-mic-charging-box-white"/>
+    <title>I7S TWS Earpods Twins Bluetooth Wireless Headset With Mic Charging Box</title>
+    <s:type>Bluetooth Headsets</s:type>
+    <s:vendor>XpressTronics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0502/9865/0791/products/3_96995ed1-f9ab-4f15-818c-6d289f738ce9.jpg?v=1607373603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XpressTronics<br>
+        <strong>Type: </strong>Bluetooth Headsets<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">High-Quality Sound</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Reliable Performance</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Long-Lasting and Good quality</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Easy to Use lightweight and portable</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Best for Hands-free &amp; Music while driving/walking/Gyming/Running/Work Out/Sports and Other Outdoor Activity.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product Type_Bluetooth Headsets</s:tag>
+    <s:variant>
+      <id>https://www.xpresstronics.ca/products/6108243755175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>CTBH1011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xpresstronics.ca/products/6108238676135</id>
+    <published>2020-12-07T12:34:15-08:00</published>
+    <updated>2020-12-07T12:34:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/products/i7-tws-twins-true-wireless-earphone-mini-bluetooth-earphone-v4-2-edr"/>
+    <title>i7 TWS Twins True Wireless Earpods Mini Bluetooth Earphone V4.2 EDR</title>
+    <s:type>Bluetooth Headsets</s:type>
+    <s:vendor>XpressTronics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0502/9865/0791/products/1_054d61dc-29aa-4dab-985e-af47254b957a.jpg?v=1607373250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XpressTronics<br>
+        <strong>Type: </strong>Bluetooth Headsets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Model: i7 TWS</li>
+<li>Bluetooth Version: V4.2+EDR</li>
+<li>Mic Sensitivity: 42Db</li>
+<li>Wireless Frequency:2.4 GHz</li>
+<li>Battery Capacity: 65 MAH</li>
+<li>Charging Voltage DC5V</li>
+<li>Playing Time: 5-6 hours</li>
+<li>Standby Time: 100 hours</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product Type_Bluetooth Headsets</s:tag>
+    <s:variant>
+      <id>https://www.xpresstronics.ca/products/6108238676135</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>CTBH1010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

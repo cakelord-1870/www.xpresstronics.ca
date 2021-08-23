@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xpresstronics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xpresstronics.ca/collections/hdmi-cables.atom"/>
+  <title>XpressTronics: Wholesale Cell Phone Accessories in Canada</title>
+  <updated>2020-12-13T16:59:53-08:00</updated>
+  <author>
+    <name>XpressTronics: Wholesale Cell Phone Accessories in Canada</name>
+  </author>
+  <entry>
+    <id>https://www.xpresstronics.ca/products/6124391170215</id>
+    <published>2020-12-13T16:59:53-08:00</published>
+    <updated>2020-12-13T16:59:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/products/video-cable-hdmi-to-hdmi-10-feet"/>
+    <title>Video Cable - HDMI to HDMI (10 Feet)</title>
+    <s:type>Miscellaneous</s:type>
+    <s:vendor>XpressTronics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0502/9865/0791/products/1_e1f83a33-2313-494a-8a98-d2131eddb5be.jpg?v=1607907595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XpressTronics<br>
+        <strong>Type: </strong>Miscellaneous<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Video Cable - HDMI to HDMI (10 Feet)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product Type_HDMI Cables</s:tag>
+    <s:tag>Product Type_Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://www.xpresstronics.ca/products/6124391170215</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>CTMC1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xpresstronics.ca/products/6124382191783</id>
+    <published>2020-12-13T16:57:16-08:00</published>
+    <updated>2020-12-13T16:57:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xpresstronics.ca/products/video-cable-hdmi-to-hdmi-45-feet"/>
+    <title>Video Cable - HDMI to HDMI (45 Feet)</title>
+    <s:type>Miscellaneous</s:type>
+    <s:vendor>XpressTronics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0502/9865/0791/products/1_db15c83f-edf8-4b46-a3cb-9a9a93b9a8b9.jpg?v=1609449262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XpressTronics<br>
+        <strong>Type: </strong>Miscellaneous<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Video Cable - HDMI to HDMI (45 Feet)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product Type_HDMI Cables</s:tag>
+    <s:tag>Product Type_Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://www.xpresstronics.ca/products/6124382191783</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CTMC1007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
